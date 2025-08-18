@@ -14,3 +14,7 @@ write a program to find the maximum of two numbers in a list
 problem statement - 4
 write a program to print reverse of a list
 <img width="1042" height="135" alt="image" src="https://github.com/user-attachments/assets/5fb3e05c-7579-4144-9562-693b9f796b06" />
+
+problem statement - 5
+write a program to print all even numbers in a given range
+<img width="1095" height="259" alt="image" src="https://github.com/user-attachments/assets/32a31288-4e10-44d1-bbc3-2273e16c1033" />
